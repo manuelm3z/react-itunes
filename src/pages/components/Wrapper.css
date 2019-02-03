@@ -1,0 +1,11 @@
+.Wrapper-content {
+  padding: 0 50px;
+}
+.Wrapper-background {
+  background: #fff;
+  padding: 24px;
+  min-height: 100vh;
+}
+.Wrapper-breadcrumb {
+  margin: 16px 0 !important;
+}

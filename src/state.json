@@ -1,0 +1,30 @@
+{
+  "search": {
+    "query": {
+      "term": "",
+      "media": "music",
+      "entity": "",
+      "attribute": "",
+      "limit": 200
+    },
+    "isFetching": false,
+    "results": []
+  },
+  "artist": {
+    "isFetching": false,
+    "artistName": "",
+    "primaryGenreName": "",
+    "albums": [],
+    "previousResults": {}
+  },
+  "album": {
+    "isFetching": false,
+    "collectionName": "",
+    "releaseDate": "",
+    "artworkUrl100": "",
+    "artistName": "",
+    "artistId": "",
+    "songs": [],
+    "previousResults": {}
+  }
+}

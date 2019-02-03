@@ -1,0 +1,16 @@
+.Results-header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.Results-area {
+  background: #ECECEC;
+  padding: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.Results-pagination {
+  margin: 15px 0 !important;
+  display: flex;
+  justify-content: center;
+}
